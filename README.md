@@ -1,2 +1,4 @@
-# curriculum-vitae
-My online curriculum vitae written in Markdown.
+# Pierre-Louis Sergent
+### Junior Developer
+
+> My online **curriculum-vitae** written in Markdown.
