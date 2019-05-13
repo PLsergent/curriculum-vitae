@@ -5,7 +5,7 @@
 <a href="https://www.linkedin.com/in/pierre-louis-s/"><img src="https://www.crossfitchelles.com/wp-content/uploads/2019/03/linkedin-icon-logo-png-transparent.png" alt="drawing" width="70"/></a>
 <a href="github.com/plsergent"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/1200px-Octicons-mark-github.svg.png" alt="drawing" width="70"/></a>
 <a href="https://stackoverflow.com/users/10658662/pl-sergent?tab=profile"><img src="https://www.shareicon.net/download/2016/11/14/851937_stack.svg" alt="drawing" width="70"/></a>
-<a href="https://stackoverflow.com/users/10658662/pl-sergent?tab=profile"><img src="" alt="drawing" width="80"/></a>
+<a href="CV_current.pdf"><img src="cv_logo.png" alt="drawing" height="70"/></a>
 </p>
 
 
