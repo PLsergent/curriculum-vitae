@@ -3,7 +3,7 @@
 <p align=center><i>My online <b>curriculum-vitae</b> written in Markdown.</i></p>
 <p align=center>
 <a href="https://www.linkedin.com/in/pierre-louis-s/"><img src="https://www.crossfitchelles.com/wp-content/uploads/2019/03/linkedin-icon-logo-png-transparent.png" alt="linkedin" width="70"/></a>
-<a href="github.com/plsergent"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/1200px-Octicons-mark-github.svg.png" alt="github" width="70"/></a>
+<a href="https://github.com/PLsergent"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/1200px-Octicons-mark-github.svg.png" alt="github" width="70"/></a>
 <a href="https://stackoverflow.com/users/10658662/pl-sergent?tab=profile"><img src="https://www.shareicon.net/download/2016/11/14/851937_stack.svg" alt="stack" width="70"/></a>
 <a href="./documents/CV_current.pdf"><img src="./images/cv_logo.png" alt="cv" height="70"/></a>
 </p>
@@ -69,10 +69,10 @@ from **sept. 2013** to **jul. 2016** - Baccalauréat S, major: mathematics, euro
 ## Skills
 
 - Python, Js, SQL, HTML, Php, Java, C
-- Linux (Ubuntu - elementaryOS - Arch), Windows 10
-- Framework : Django - Flask
+- Linux (Ubuntu, elementaryOS, Arch), Windows 10
+- Framework : Django, Flask
 - CSS : Bulma, Bootstrap
-- Js : JQuery - DataTables
+- Js : JQuery, DataTables
 
 ## Langages
 
@@ -92,5 +92,5 @@ from **sept. 2013** to **jul. 2016** - Baccalauréat S, major: mathematics, euro
 - Cinema
 - Litterature
 - Manga
-- Music (mainly Rap; Hip-Hop, Jazz) [here is my Spotify](https://open.spotify.com/user/11120724007?si=jm4p7efdQjSpl2Ki75ytVw)
+- Music (mainly Rap, Hip-Hop, Jazz) [here is my Spotify](https://open.spotify.com/user/11120724007?si=jm4p7efdQjSpl2Ki75ytVw)
 - Video games
