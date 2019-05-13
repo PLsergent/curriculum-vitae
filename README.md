@@ -32,3 +32,29 @@
 | velomania       	| (incomplete) Web e-commerce application written in Java.                                                                                                                                                                                                                	| Java - JavaEE                                                                          	| [velomania](https://github.com/PLsergent/velomania)                            	|
 | alarm-clock-js  	| Basic alarm clock application written in VanillaJS. The ring is set with a YouTube video. Learning project.                                                                                                                                                             	| Js - HTML                                                                              	| [alarm-clock-js](https://github.com/PLsergent/alarm-clock-js )                      	|
 | BankAccount     	| Little application to handle bank transaction, written in C. Learning project.                                                                                                                                                                                          	| C                                                                                      	| [BankAccount](https://github.com/PLsergent/BankAccount)                          	|
+
+
+- ### Some personal projects
+
+| Name                	| About                                                                                                                                                                                 	| Skills / Technologies                    	| GitHub                                           	|
+|---------------------	|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|------------------------------------------	|--------------------------------------------------	|
+| Movies-Manager      	| [OpenClassrooms tutorial](https://openclassrooms.com/fr/courses/4902061-developpez-une-application-mobile-react-native) to learn reat-native. Mobile application to manage movies, using an API, written in react-native.                                                             	| Js - react-native                        	| [Movies-Manager](https://github.com/PLsergent/Movies-Manager)      	|
+| pydata-pi-approx    	| This little project is based on a tutorial from a talk given by James Powell at a Pydata event. Web-based Analysis & Simulation Platforms with React/Redux, Flask, Celery, and Numpy. 	| Python - React - Flask - Numpy - RESTApi 	| [pydata-pi-approx](https://github.com/PLsergent/pydata-pi-approx)    	|
+| setup-user-friendly 	| Early stage project. Setup automation using Ansible.                                                                                                                                  	| Ansible                                  	| [setup-user-friendly](https://github.com/PLsergent/setup-user-friendly) 	|
+| pictactoe           	| Worked on the early version of the project. Tic-Tac-Toe playable on a Rasberry pi Sense HAT (64x64 led grid).                                                                         	| Python                                   	| [pictactoe](https://github.com/Sweenu/pictactoe)              	|
+
+
+## Education
+
+- #### Sorbonne University (Paris)
+from **sept. 2019** to **sept. 2020** - Licence Pro Projet Web et Mobile (equivalent to Bachelor degree, current)
+
+---
+
+- #### Claude Bernard Lyon 1 University (Lyon, France)
+from **feb. 2017** to **feb. 2019** - Technical University Degree in Computer (DUT Informatique)
+
+---
+
+- #### High-School : Lycée Sainte Famille (La Roche-sur-Foron, France)
+from **sept. 2013** to **jul. 2016** - Baccalauréat S, major: mathematics, european english class, mention Bien 
