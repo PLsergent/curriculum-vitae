@@ -9,7 +9,7 @@
 </p>
 
 
-## About
+## About :page_facing_up:
 
 - French, 20 years old
 - Currently studying computer science in Sorbonne university (Paris)
@@ -17,7 +17,7 @@
 - Love to discover things about new technologies, open-source, Linux and Python
 - Curious, flexible and passionate
 
-## Experience
+## Experience :wrench:
 
 - ### Professional experiences
 
@@ -50,7 +50,7 @@
 | pictactoe           	| Worked on the early version of the project. Tic-Tac-Toe playable on a Rasberry pi Sense HAT (64x64 led grid).                                                                         	| Python                                   	| [pictactoe](https://github.com/Sweenu/pictactoe)              	|
 
 
-## Education
+## Education :mortar_board:
 
 - #### Sorbonne University (Paris)
 from **sept. 2019** to **sept. 2020** - Licence Pro Projet Web et Mobile (equivalent to Bachelor degree, current)
@@ -66,7 +66,7 @@ from **feb. 2017** to **feb. 2019** - Technical University Degree in Computer (D
 from **sept. 2013** to **jul. 2016** - Baccalauréat S, major: mathematics, european english class, mention Bien
 
 
-## Skills
+## Skills :computer:
 
 - Python, Js, SQL, HTML, Php, Java, C
 - Linux (Ubuntu, elementaryOS, Arch), Windows 10
@@ -74,23 +74,24 @@ from **sept. 2013** to **jul. 2016** - Baccalauréat S, major: mathematics, euro
 - CSS : Bulma, Bootstrap
 - Js : JQuery, DataTables
 
-## Langages
+## Langages 
 
-- French (mother tongue)
-- English (speaking: intermediate, reading: intermediate/current, listening: intermediate/current)
-- German (basic notion)
+- :fr: French (mother tongue) 
+- :us: :uk: English (speaking: intermediate, reading: intermediate/current, listening: intermediate/current)
+- :de: German (basic notion)
 
 ## Hobbies
 
-#### Sport:
-- Basketball, I've been playing basketball since I'm 6 yo. I've also had the chance to coach a young team for a couple years.
-- Road bike, city bike(fixie)
-- Fitness
+#### Sport: :sweat_drops:
+- Basketball, I've been playing basketball since I'm 6 yo. I've also had the chance to coach a young team for a couple years. :basketball:
+- Road bike, city bike(fixie) :bike:
+- Fitness :muscle:
+- And others... :soccer: :tennis: :football:
 
 #### Cultural
-- Clothes
-- Cinema
-- Litterature
-- Manga
-- Music (mainly Rap, Hip-Hop, Jazz) [here is my Spotify](https://open.spotify.com/user/11120724007?si=jm4p7efdQjSpl2Ki75ytVw)
-- Video games
+- Clothes :shirt:
+- Cinema :cinema:
+- Litterature :blue_book:
+- Manga :book:
+- Music (mainly Rap, Hip-Hop, Jazz) :notes: [here is my Spotify](https://open.spotify.com/user/11120724007?si=jm4p7efdQjSpl2Ki75ytVw)
+- Video games :space_invader:
