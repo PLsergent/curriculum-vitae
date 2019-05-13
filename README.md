@@ -1,6 +1,12 @@
 <h1 align=center>Pierre-Louis Sergent</h1>
 <h3 align=center>Junior Developer</h3>
 <p align=center><i>My online <b>curriculum-vitae</b> written in Markdown.</i></p>
+<p align=center>
+<a href="https://www.linkedin.com/in/pierre-louis-s/"><img src="https://www.crossfitchelles.com/wp-content/uploads/2019/03/linkedin-icon-logo-png-transparent.png" alt="drawing" width="70"/></a>
+<a href="github.com/plsergent"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/1200px-Octicons-mark-github.svg.png" alt="drawing" width="70"/></a>
+<a href="https://stackoverflow.com/users/10658662/pl-sergent?tab=profile"><img src="https://www.shareicon.net/download/2016/11/14/851937_stack.svg" alt="drawing" width="70"/></a>
+<a href="https://stackoverflow.com/users/10658662/pl-sergent?tab=profile"><img src="" alt="drawing" width="80"/></a>
+</p>
 
 
 ## About
@@ -40,7 +46,7 @@
 |---------------------	|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|------------------------------------------	|--------------------------------------------------	|
 | Movies-Manager      	| [OpenClassrooms tutorial](https://openclassrooms.com/fr/courses/4902061-developpez-une-application-mobile-react-native) to learn reat-native. Mobile application to manage movies, using an API, written in react-native.                                                             	| Js - react-native                        	| [Movies-Manager](https://github.com/PLsergent/Movies-Manager)      	|
 | pydata-pi-approx    	| This little project is based on a tutorial from a talk given by James Powell at a Pydata event. Web-based Analysis & Simulation Platforms with React/Redux, Flask, Celery, and Numpy. 	| Python - React - Flask - Numpy - RESTApi 	| [pydata-pi-approx](https://github.com/PLsergent/pydata-pi-approx)    	|
-| setup-user-friendly 	| Early stage project. Setup automation using Ansible.                                                                                                                                  	| Ansible                                  	| [setup-user-friendly](https://github.com/PLsergent/setup-user-friendly) 	|
+| setup_user_friendly 	| Early stage project. Setup automation using Ansible.                                                                                                                                  	| Ansible                                  	| [setup-user-friendly](https://github.com/PLsergent/setup-user-friendly) 	|
 | pictactoe           	| Worked on the early version of the project. Tic-Tac-Toe playable on a Rasberry pi Sense HAT (64x64 led grid).                                                                         	| Python                                   	| [pictactoe](https://github.com/Sweenu/pictactoe)              	|
 
 
@@ -86,5 +92,5 @@ from **sept. 2013** to **jul. 2016** - Baccalauréat S, major: mathematics, euro
 - Cinema
 - Litterature
 - Manga
-- Music (mainly Rap; Hip-Hop, Jazz) [here is my Spotify]()
+- Music (mainly Rap; Hip-Hop, Jazz) [here is my Spotify](https://open.spotify.com/user/11120724007?si=jm4p7efdQjSpl2Ki75ytVw)
 - Video games
