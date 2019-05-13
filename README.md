@@ -21,6 +21,7 @@
 | Junior Fullstack Web Developer       	| Spotook 	| Lausanne, Switzerland 	| Feb. 2019 / Jul. 2019 	| Web application, e-commerce website.     	| Python - Django - Postgre SQL - JQuery - Bootstrap - Specifications - Management  	| Private                                 	|
 
 - ### Some university projects
+*The projects are sorted by personnal preferences, projects interrest and time dedication.*
 
 | Name            	| About                                                                                                                                                                                                                                                                   	| Skills / Technologies                                                                  	| GitHub                                                            	|
 |-----------------	|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|----------------------------------------------------------------------------------------	|-------------------------------------------------------------------	|
