@@ -2,10 +2,10 @@
 <h3 align=center>Junior Developer</h3>
 <p align=center><i>My online <b>curriculum-vitae</b> written in Markdown.</i></p>
 <p align=center>
-<a href="https://www.linkedin.com/in/pierre-louis-s/"><img src="https://www.crossfitchelles.com/wp-content/uploads/2019/03/linkedin-icon-logo-png-transparent.png" alt="drawing" width="70"/></a>
-<a href="github.com/plsergent"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/1200px-Octicons-mark-github.svg.png" alt="drawing" width="70"/></a>
-<a href="https://stackoverflow.com/users/10658662/pl-sergent?tab=profile"><img src="https://www.shareicon.net/download/2016/11/14/851937_stack.svg" alt="drawing" width="70"/></a>
-<a href="CV_current.pdf"><img src="cv_logo.png" alt="drawing" height="70"/></a>
+<a href="https://www.linkedin.com/in/pierre-louis-s/"><img src="https://www.crossfitchelles.com/wp-content/uploads/2019/03/linkedin-icon-logo-png-transparent.png" alt="linkedin" width="70"/></a>
+<a href="github.com/plsergent"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/1200px-Octicons-mark-github.svg.png" alt="github" width="70"/></a>
+<a href="https://stackoverflow.com/users/10658662/pl-sergent?tab=profile"><img src="https://www.shareicon.net/download/2016/11/14/851937_stack.svg" alt="stack" width="70"/></a>
+<a href="./documents/CV_current.pdf"><img src="./images/cv_logo.png" alt="cv" height="70"/></a>
 </p>
 
 
@@ -82,7 +82,7 @@ from **sept. 2013** to **jul. 2016** - Baccalauréat S, major: mathematics, euro
 
 ## Hobbies
 
-#### Sport: 
+#### Sport:
 - Basketball, I've been playing basketball since I'm 6 yo. I've also had the chance to coach a young team for a couple years.
 - Road bike, city bike(fixie)
 - Fitness
