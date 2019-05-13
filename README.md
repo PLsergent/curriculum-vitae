@@ -88,7 +88,7 @@ from **sept. 2013** to **jul. 2016** - Baccalauréat S, major: mathematics, euro
 - Fitness :muscle:
 - And others... :soccer: :tennis: :football:
 
-#### Cultural
+#### Cultural:
 - Clothes :shirt:
 - Cinema :cinema:
 - Litterature :blue_book:
