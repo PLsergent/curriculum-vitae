@@ -57,4 +57,34 @@ from **feb. 2017** to **feb. 2019** - Technical University Degree in Computer (D
 ---
 
 - #### High-School : Lycée Sainte Famille (La Roche-sur-Foron, France)
-from **sept. 2013** to **jul. 2016** - Baccalauréat S, major: mathematics, european english class, mention Bien 
+from **sept. 2013** to **jul. 2016** - Baccalauréat S, major: mathematics, european english class, mention Bien
+
+
+## Skills
+
+- Python, Js, SQL, HTML, Php, Java, C
+- Linux (Ubuntu - elementaryOS - Arch), Windows 10
+- Framework : Django - Flask
+- CSS : Bulma, Bootstrap
+- Js : JQuery - DataTables
+
+## Langages
+
+- French (mother tongue)
+- English (speaking: intermediate, reading: intermediate/current, listening: intermediate/current)
+- German (basic notion)
+
+## Hobbies
+
+#### Sport: 
+- Basketball, I've been playing basketball since I'm 6 yo. I've also had the chance to coach a young team for a couple years.
+- Road bike, city bike(fixie)
+- Fitness
+
+#### Cultural
+- Clothes
+- Cinema
+- Litterature
+- Manga
+- Music (mainly Rap; Hip-Hop, Jazz) [here is my Spotify]()
+- Video games
