@@ -85,9 +85,10 @@ from **sept. 2013** to **jul. 2016** - Baccalauréat S, major: mathematics, euro
 
 #### Sport: :sweat_drops:
 - Basketball, I've been playing basketball since I'm 6 yo. I've also had the chance to coach a young team for a couple years. :basketball:
-- Road bike, city bike(fixie) :bike:
+- Road bike, city bike (fixie) :bike:
 - Fitness :muscle:
-- And others... :soccer: :tennis: :football:
+- Tennis :tennis: 
+- And others... :soccer: :football:
 
 #### Cultural:
 - Clothes :shirt:
