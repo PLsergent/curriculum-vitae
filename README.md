@@ -4,7 +4,7 @@
 <p align=center>
 <a href="https://www.linkedin.com/in/pierre-louis-s/"><img src="https://www.crossfitchelles.com/wp-content/uploads/2019/03/linkedin-icon-logo-png-transparent.png" alt="linkedin" width="70"/></a>
 <a href="https://github.com/PLsergent"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/1200px-Octicons-mark-github.svg.png" alt="github" width="70"/></a>
-<a href="https://stackoverflow.com/users/10658662/pl-sergent?tab=profile"><img src="https://awongway.github.io/images/stack.png" alt="stack" width="70"/></a>
+<a href="https://stackoverflow.com/users/10658662/pl-sergent?tab=profile"><img src="https://www.jros.org/img/icons/icon-stackoverflow.svg" alt="stack" width="70"/></a>
 <a href="./documents/CV_current.pdf"><img src="./images/cv_logo.png" alt="cv" height="70"/></a>
 <a href="mailto:pldev.sergent@gmail.com"><img src="https://images.frandroid.com/wp-content/uploads/2018/04/2000px-new_logo_gmail-svg.png" alt="mail" height="61"/></a>
 </p>
